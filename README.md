@@ -126,8 +126,7 @@ Se hace uso de las mismas tablas que el modulo de Historias Terminadas
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
-Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
-
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/4672e03d-f801-409f-9e55-f0d036dec82c)
 
 <!-- Implementación del proyecto -->
 ## Implementación.
