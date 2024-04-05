@@ -90,7 +90,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
       - Debe existir un formato de checklist bien visible y accesible para el implementador.
       - El proceso de marcar y desmarcar historias en el checklist debe ser claro y fácil de usar.
   
--Visualizar historias finalizadas y su fecha de agenda:
+- Visualizar historias finalizadas y su fecha de agenda:
   - Descripción: Como implementador, necesito poder visualizar todas las historias con estado "Finalizado" y ver la fecha en que fueron agendadas, para tener un registro claro de las tareas completadas y su programación.
   - Criterios de Aceptación:
   - La aplicación debe mostrar todas las historias con estado "Finalizado" de manera clara y organizada.
