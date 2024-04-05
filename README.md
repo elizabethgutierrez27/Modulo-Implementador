@@ -115,7 +115,9 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
-Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
+Se hace uso de las mismas tablas que el modulo de Historias Terminadas
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/158323858/a54b06ab-2ba9-4bab-9465-c3abd97cb44a)
+
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
