@@ -162,18 +162,18 @@ Del lado del cliente se encuentra:
         - obtenerDatosTablaLiberadas(): Este fue usado para taer la informacion y mostrarla de las historias que ya estan liberadas, esto se refleja cuando se ejecuta el procedimineto almacenado.
         - formatearFecha(fecha): Este es para dar un formato de fecha "dd/mm/yyyy"
           
-  Estos dos de comunican mediante el jquery
+Estos dos de comunican mediante el jquery
 
-  Del lado del servidor se encuentra:
-  - ASPX.CS
-      - Aqui se tiene el codigo de los metodos base del proyecto.
-      - En este caso se llama sistema.aspx.cs
-        - ObtenerHistoriasAgendadas()
-        - ObtenerHistoriasNoAgendadas()
-        - ObtenerHistoriasLiberadas()
-        - ObtenerSistemas()
-  - Cs
-    - Aqui se tiene las clases, y el codigo c#.
+Del lado del servidor se encuentra:
+- ASPX.CS
+    - Aqui se tiene el codigo de los metodos base del proyecto.
+    - En este caso se llama sistema.aspx.cs
+    - ObtenerHistoriasAgendadas()
+    - ObtenerHistoriasNoAgendadas()
+    - ObtenerHistoriasLiberadas()
+     - ObtenerSistemas()
+- Cs
+  - Aqui se tiene las clases, y el codigo c#.
 
   Esta parte se comunica mediante el ajax, con el se conecta.
 
