@@ -1,10 +1,5 @@
 # Modulo-Implementador
 # Integradora II
-- Arredondo Torrez Noah Noel
-- Gutierrez Olvera Elizabeth
-- Nuñez Godinez Josue Omar
-- Ramirez Cruz Oscar Ulises
-- Rangel Perez Alejandro
 
 ## contenido
 <details>
@@ -99,15 +94,15 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 - Aplicar filtros para agrupar historias por fecha y sistema:
   - Descripción: Como implementador, necesito poder aplicar filtros para agrupar las historias por fecha según el sistema, con el objetivo de organizar y visualizar las tareas de manera más eficiente y contextualizada.
   - Criterios de Aceptación:
-  - La aplicación debe tener un botón de filtro bien visible y accesible.
-  - Al aplicar un filtro, las historias deben agruparse según las categorías definidas en el sistema, como fecha y sistema, de manera rápida y precisa.
+    - La aplicación debe tener un botón de filtro bien visible y accesible.
+    - Al aplicar un filtro, las historias deben agruparse según las categorías definidas en el sistema, como fecha y sistema, de manera rápida y precisa.
 
 - Visualizar y gestionar historias por sistema o pantalla:
   - Descripción: Como implementador, necesito una pantalla que muestre las etiquetas de sistemas o pantallas, y al seleccionar una de ellas, ver un listado de historias asociadas, con la opción de agendarlas o rechazarlas.
   - Criterios de Aceptación:
-  - La pantalla debe presentar claramente las etiquetas de sistemas o pantallas.
-  - Al seleccionar una etiqueta, debe mostrarse un listado de historias asociadas de manera clara y organizada.
-  - Debe haber opciones para agendar o rechazar las historias de usuario desde esta pantalla.
+    - La pantalla debe presentar claramente las etiquetas de sistemas o pantallas.
+    - Al seleccionar una etiqueta, debe mostrarse un listado de historias asociadas de manera clara y organizada.
+    - Debe haber opciones para agendar o rechazar las historias de usuario desde esta pantalla.
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
@@ -187,10 +182,10 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [participante 1]()
-* [participante 2]()
-* [participante 3]()
+- Arredondo Torrez Noah Noel
+- Gutierrez Olvera Elizabeth
+- Nuñez Godinez Josue Omar
+- Ramirez Cruz Oscar Ulises
+- Rangel Perez Alejandro
 
-[contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-****
+
