@@ -1,10 +1,10 @@
 # Modulo-Implementador
-Proyecto en el cual se estuvo trabajando con NAD Global
-
 # Integradora II
-Arredondo Torrez Noah Noel
-Gutierrez Olvera Elizabeth
-Nuñez Godinez Josue Omar 
+- Arredondo Torrez Noah Noel
+- Gutierrez Olvera Elizabeth
+- Nuñez Godinez Josue Omar
+- Ramirez Cruz Oscar Ulises
+- Rangel Perez Alejandro
 
 ## contenido
 <details>
@@ -60,6 +60,7 @@ Nuñez Godinez Josue Omar
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
 Requisitos.
+  
 
 <!-- Descripción -->
 #### Descripción.
@@ -83,7 +84,30 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 #### Requerimientos.
-Listado de los requerimientos (código requerimiento, descripción)
+- Formato tipo checklist para seleccionar historias:
+  -Descripción: Como implementador, necesito un formato de checklist para seleccionar las historias de usuario que deseo liberar, con el fin de facilitar la gestión y liberación de nuevas funcionalidades en el sistema.
+  -Criterios de Aceptación:
+  -Debe existir un formato de checklist bien visible y accesible para el implementador.
+  -El proceso de marcar y desmarcar historias en el checklist debe ser claro y fácil de usar.
+  -Visualizar historias finalizadas y su fecha de agenda:
+
+  - Descripción: Como implementador, necesito poder visualizar todas las historias con estado "Finalizado" y ver la fecha en que fueron agendadas, para tener un registro claro de las tareas completadas y su programación.
+  - Criterios de Aceptación:
+  -La aplicación debe mostrar todas las historias con estado "Finalizado" de manera clara y organizada.
+  -La fecha de agenda de cada historia finalizada debe ser visible y estar asociada a la historia correspondiente.
+  -Aplicar filtros para agrupar historias por fecha y sistema:
+
+  -Descripción: Como implementador, necesito poder aplicar filtros para agrupar las historias por fecha según el sistema, con el objetivo de organizar y visualizar las tareas de manera más eficiente y contextualizada.
+  -Criterios de Aceptación:
+  -La aplicación debe tener un botón de filtro bien visible y accesible.
+  -Al aplicar un filtro, las historias deben agruparse según las categorías definidas en el sistema, como fecha y sistema, de manera rápida y precisa.
+  -Visualizar y gestionar historias por sistema o pantalla:
+
+  -Descripción: Como implementador, necesito una pantalla que muestre las etiquetas de sistemas o pantallas, y al seleccionar una de ellas, ver un listado de historias asociadas, con la opción de agendarlas o rechazarlas.
+  -Criterios de Aceptación:
+  -La pantalla debe presentar claramente las etiquetas de sistemas o pantallas.
+  -Al seleccionar una etiqueta, debe mostrarse un listado de historias asociadas de manera clara y organizada.
+  -Debe haber opciones para agendar o rechazar las historias de usuario desde esta pantalla.
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
