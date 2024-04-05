@@ -59,11 +59,11 @@ Requisitos.
 
 <!-- Descripción -->
 #### Descripción.
-Indicar la descripción del proyecto (tiempo, costo y calidad).
+El proyecto estaba planeado para ser trabajado en un período de 4 meses, durante los cuales los integrantes de los equipos se encargarían de desarrollar un módulo cada uno, de manera que todos contribuyeran con una parte del mismo y se fuera desarrollando de forma que todos los equipos trabajaran al mismo ritmo.
 
 <!-- Objetivos -->
 #### Objetivos.
-Indicar los objetivos del proyecto.
+Los objetivos se trabajaron simultáneamente, centrándose principalmente en el trabajo en equipo y la capacidad de adaptación de los integrantes de los equipos para trabajar en un módulo asignado por el encargado. En total, participaron 4 equipos que se dividieron en grupos de 5 a 6 personas para desarrollar cada módulo. En cada equipo, había un líder encargado de dirigir y asignar las tareas a los integrantes del equipo.
 
 <!-- Organigrama -->
 #### Organigrama.
@@ -169,7 +169,7 @@ Requisitos de Instalación.
 
 <!-- Instalación -->
 ### Instalacion
-Instalación del Software
+Se hace uso de varias herramientas de software para poder trabajar con el proyecto proporcionado, por ello se hizo más de una instalación 
 
 
 ## Guias
