@@ -119,6 +119,7 @@ Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/09223050-af42-4c47-a10b-00f5b79cd6d0)
 
 
 <!-- Diagrama de Componentes -->
