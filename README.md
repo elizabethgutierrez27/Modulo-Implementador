@@ -130,7 +130,8 @@ Se hace uso de las mismas tablas que el modulo de Historias Terminadas
 
 <!-- Implementación del proyecto -->
 ## Implementación.
-En ésta sección se describe  los artefactos generados en base a la solución.
+- <b>Convención de nomenclatura:</b> 
+- <b>Comentarios y documentación: </b>> Se incluyeron comentarios descriptivos en el código para explicar su funcionamiento y propósito
 
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
