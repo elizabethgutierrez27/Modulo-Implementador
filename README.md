@@ -85,34 +85,33 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 <!-- Requerimientos -->
 #### Requerimientos.
 - Formato tipo checklist para seleccionar historias:
-  -Descripción: Como implementador, necesito un formato de checklist para seleccionar las historias de usuario que deseo liberar, con el fin de facilitar la gestión y liberación de nuevas funcionalidades en el sistema.
-  -Criterios de Aceptación:
-  -Debe existir un formato de checklist bien visible y accesible para el implementador.
-  -El proceso de marcar y desmarcar historias en el checklist debe ser claro y fácil de usar.
-  -Visualizar historias finalizadas y su fecha de agenda:
-
+  - Descripción: Como implementador, necesito un formato de checklist para seleccionar las historias de usuario que deseo liberar, con el fin de facilitar la gestión y liberación de nuevas funcionalidades en el sistema.
+  - Criterios de Aceptación:
+      - Debe existir un formato de checklist bien visible y accesible para el implementador.
+      - El proceso de marcar y desmarcar historias en el checklist debe ser claro y fácil de usar.
+  
+-Visualizar historias finalizadas y su fecha de agenda:
   - Descripción: Como implementador, necesito poder visualizar todas las historias con estado "Finalizado" y ver la fecha en que fueron agendadas, para tener un registro claro de las tareas completadas y su programación.
   - Criterios de Aceptación:
-  -La aplicación debe mostrar todas las historias con estado "Finalizado" de manera clara y organizada.
-  -La fecha de agenda de cada historia finalizada debe ser visible y estar asociada a la historia correspondiente.
-  -Aplicar filtros para agrupar historias por fecha y sistema:
+  - La aplicación debe mostrar todas las historias con estado "Finalizado" de manera clara y organizada.
+  - La fecha de agenda de cada historia finalizada debe ser visible y estar asociada a la historia correspondiente.
 
-  -Descripción: Como implementador, necesito poder aplicar filtros para agrupar las historias por fecha según el sistema, con el objetivo de organizar y visualizar las tareas de manera más eficiente y contextualizada.
-  -Criterios de Aceptación:
-  -La aplicación debe tener un botón de filtro bien visible y accesible.
-  -Al aplicar un filtro, las historias deben agruparse según las categorías definidas en el sistema, como fecha y sistema, de manera rápida y precisa.
-  -Visualizar y gestionar historias por sistema o pantalla:
+- Aplicar filtros para agrupar historias por fecha y sistema:
+  - Descripción: Como implementador, necesito poder aplicar filtros para agrupar las historias por fecha según el sistema, con el objetivo de organizar y visualizar las tareas de manera más eficiente y contextualizada.
+  - Criterios de Aceptación:
+  - La aplicación debe tener un botón de filtro bien visible y accesible.
+  - Al aplicar un filtro, las historias deben agruparse según las categorías definidas en el sistema, como fecha y sistema, de manera rápida y precisa.
 
-  -Descripción: Como implementador, necesito una pantalla que muestre las etiquetas de sistemas o pantallas, y al seleccionar una de ellas, ver un listado de historias asociadas, con la opción de agendarlas o rechazarlas.
-  -Criterios de Aceptación:
-  -La pantalla debe presentar claramente las etiquetas de sistemas o pantallas.
-  -Al seleccionar una etiqueta, debe mostrarse un listado de historias asociadas de manera clara y organizada.
-  -Debe haber opciones para agendar o rechazar las historias de usuario desde esta pantalla.
+- Visualizar y gestionar historias por sistema o pantalla:
+  - Descripción: Como implementador, necesito una pantalla que muestre las etiquetas de sistemas o pantallas, y al seleccionar una de ellas, ver un listado de historias asociadas, con la opción de agendarlas o rechazarlas.
+  - Criterios de Aceptación:
+  - La pantalla debe presentar claramente las etiquetas de sistemas o pantallas.
+  - Al seleccionar una etiqueta, debe mostrarse un listado de historias asociadas de manera clara y organizada.
+  - Debe haber opciones para agendar o rechazar las historias de usuario desde esta pantalla.
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
-Agregar la imagen de los Casos de Uso.
-
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/47889de3-afe2-429f-9afc-e93821ffa36b)
 
 
 <!-- Diseño del proyecto -->
@@ -125,7 +124,7 @@ Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
-Esquema de las clases empleadas (atributos y sus métodos).
+
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
