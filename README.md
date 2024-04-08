@@ -221,7 +221,7 @@ Licencia.
 Contacto.
 
 ## Participantes
-- Arredondo Torrez Noah Noel
+- Arredondo Torres Noah Noel
 - Gutierrez Olvera Elizabeth
 - Nuñez Godinez Josue Omar
 - Ramirez Cruz Oscar Ulises
