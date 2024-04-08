@@ -72,8 +72,7 @@ Los objetivos se trabajaron simultáneamente, centrándose principalmente en el 
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
-![Imagen de WhatsApp 2024-04-08 a las 09 50 27_41375986](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/49b9b7e1-642a-4bfd-8861-fdb99268fbbd)
-![Imagen de WhatsApp 2024-04-08 a las 09 50 27_d3b3831a](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/8d0dbd48-390f-469f-956c-035d612d488e)
+
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
