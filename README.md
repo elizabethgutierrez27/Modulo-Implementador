@@ -67,7 +67,8 @@ Los objetivos se trabajaron simultáneamente, centrándose principalmente en el 
 
 <!-- Organigrama -->
 #### Organigrama.
-Organigrama.
+![2](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/142765604/3388243b-1151-429f-bf5b-3cb222759956)
+![Pink Colorful Modern Organizational Chart Graph](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/142765604/8d1d5e4d-77d8-4a33-99ed-889c52313f57)
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
