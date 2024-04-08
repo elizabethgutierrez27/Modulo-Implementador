@@ -209,7 +209,7 @@ Se hace uso de varias herramientas de software para poder trabajar con el proyec
 
 
 ## Guias
-![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/ccb37c38-a06f-4a7a-b716-62a5748760cb)
+https://docs.google.com/document/d/13suY7d1wHpf0kEZPHYaeZFLQgEIiGsEzgZvhL_BoiX0/edit?usp=sharing
 
 ## contribucion
 Contribucion.
