@@ -93,7 +93,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
     - La fecha de agenda de cada historia finalizada debe ser visible y estar asociada a la historia correspondiente.
 
 - <b>Aplicar filtros para agrupar historias por fecha y sistema:</b>
-  -<b> Descripción:</b> Como implementador, necesito poder aplicar filtros para agrupar las historias por fecha según el sistema, con el objetivo de organizar y visualizar las tareas de manera más eficiente y contextualizada.
+  - <b>Descripción:</b> Como implementador, necesito poder aplicar filtros para agrupar las historias por fecha según el sistema, con el objetivo de organizar y visualizar las tareas de manera más eficiente y contextualizada.
   - <b>Criterios de Aceptación:</b>
     - La aplicación debe tener un botón de filtro bien visible y accesible.
     - Al aplicar un filtro, las historias deben agruparse según las categorías definidas en el sistema, como fecha y sistema, de manera rápida y precisa.
@@ -127,7 +127,8 @@ Se hace uso de las mismas tablas que el modulo de Historias Terminadas
 
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
-![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/4672e03d-f801-409f-9e55-f0d036dec82c)
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/09b8bc56-eb8c-4c2c-842b-e7a2ef538853)
+
 
 <!-- Implementación del proyecto -->
 ## Implementación.
@@ -174,7 +175,7 @@ Del lado del servidor se encuentra:
     - ObtenerHistoriasLiberadas()
      - ObtenerSistemas()
 - Cs
-  - Aqui se tiene las clases, y el codigo c#.
+  - Aqui se tiene las clases, y el codigo c#.      
 
   Esta parte se comunica mediante el ajax, con el se conecta.
 
@@ -185,16 +186,16 @@ Código Fuente de la solución
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
-En ésta sección se describe  los artefactos generados en base a la solución.
+En las pruebas para la corroboración de la funcionalidad del módulo implementador se realizaron los casos de prueba, en donde se describen detalladamente cada caso de prueba, incluyendo la entrada, los pasos a seguir y los resultados esperados. De igual manera se agrega un informe de las pruebas que es donde se resumen los resultados de las pruebas, incluyendo estadísticas, resultados de casos de prueba individuales y observaciones sobre el rendimiento del sistema. Y con ello se agregan la documentación donde se hace evidencia de la ejecución de pruebas y los resultados obtenidos, especialmente útil para problemas relacionados con la interfaz de usuario.
 
 <!-- Casos de prueba -->
 #### Casos de prueba.
-Indicar los casos de prueba
+https://docs.google.com/spreadsheets/d/1n4uHmXCagVOX4vX-S-bOL7Pf4TK6VPiIetmMg_U13g4/edit?usp=drivesdk
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
-
+https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/edit?usp=sharing
 
 <!-- Iniciando -->
 ## Iniciando
