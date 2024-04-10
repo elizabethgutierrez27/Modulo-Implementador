@@ -220,7 +220,11 @@ Contribucion.
 Licencia.
 
 ## Contacto
-Contacto.
+- nunezomar294@gmail.com
+- atnoah666@gmail.com
+- alejandrollamas2000@gmail.com
+- uli.ses140511@gmail.com
+- elizabethgolvera@gmail.com
 
 ## Participantes
 - Arredondo Torres Noah Noel
