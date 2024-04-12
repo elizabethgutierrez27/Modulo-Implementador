@@ -59,7 +59,23 @@ Requisitos.
 
 <!-- Descripción -->
 #### Descripción.
-El proyecto estaba planeado para ser trabajado en un período de 4 meses, durante los cuales los integrantes de los equipos se encargarían de desarrollar un módulo cada uno, de manera que todos contribuyeran con una parte del mismo y se fuera desarrollando de forma que todos los equipos trabajaran al mismo ritmo.
+    Período de Tiempo: El proyecto se llevó a cabo desde el 8 de enero al 15 de abril de 2024. Durante este tiempo, el equipo trabajó en el desarrollo del módulo asignado (Modulo de implementador).
+
+    Metodología: Se utilizó la metodología ágil Scrum para gestionar el proyecto, permitiendo trabajar en sprints y hacer ajustes conforme a los resultados y retroalimentación obtenidos.
+
+    Riesgos: Durante el desarrollo del proyecto, surgieron problemas relacionados con la gestión del tiempo y la comprensión del código. Estos desafíos impactaron en el avance del trabajo, pero fueron abordados con sesiones de revisión y comunicación continua.
+
+    Equipo:
+        Inicialmente, el equipo estaba compuesto por cinco integrantes:
+            Oscar Ramírez: Líder del proyecto y Analista de datos, responsable de supervisar y coordinar el trabajo del equipo, gestionar y desarrollar la implementacion de la base de datos.
+            Elizabeth Olvera: Desarrolladora de software, encargada de codificar partes específicas del módulo.
+            Alejandro Rangel: Desarrollador de software, encargado de verificar la funcionalidad del módulo, ademas de apoyar con los estilos del modulo.
+            Manuel Mata y Mildret Banda: Desarrolladores de software que abandonaron el proyecto poco después del inicio.
+        Posteriormente, dos nuevos miembros se unieron para reforzar el equipo:
+            Noah Torres: Desarrollador de software, quien asumió parte de las tareas de codificación y posteriormente el liderazgo del equipo.
+            Josué Núñez: Diseñador de interfaces, encargado de mejorar la experiencia del usuario en el módulo.
+
+    Interesados del Proyecto: Los interesados principales en el proyecto eran los departamentos de desarrollo y tecnología, así como los usuarios finales del módulo.
 
 <!-- Objetivos -->
 #### Objetivos.
