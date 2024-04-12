@@ -199,7 +199,6 @@ https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/
 
 <!-- Iniciando -->
 ## Iniciando
-Iniciando.
 
 <!-- Requisitos -->
 ### Requisitos
@@ -207,7 +206,11 @@ Requisitos de Instalación.
 
 <!-- Instalación -->
 ### Instalacion
-Se hace uso de varias herramientas de software para poder trabajar con el proyecto proporcionado, por ello se hizo más de una instalación 
+Se hace uso de varias herramientas de software para poder trabajar con el proyecto proporcionado, por ello se hizo más de una instalación.
+- Instalar Visual Studio 2022 en caso de no tenerlo
+- Tener activo el servidor con el uso de la VPN
+- Para la VPN tener el programa FortiClient
+- Descragar el proyecto, y ejecutarlo desde el Visual Studio
 
 
 ## Guias
