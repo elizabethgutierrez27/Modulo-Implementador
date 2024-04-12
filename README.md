@@ -219,12 +219,12 @@ https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/
 
 <!-- Requisitos -->
 ### Requisitos
-- Instalar Tortoise 
-- Instalar Visual Studio 2022 
-- Durante la instalación de Visual Studio 2022, asegúrate de seleccionar los componentes de desarrollo web necesarios, en este caso ASP.NET.
+- Instalar Tortoise versión 1.14.6
+- Instalar Visual Studio 2022. 
+- Instalar Framework ASP.NET.
 - Instalar SQL Server Management Studio 19
-- Instalar FortiClient
-- Descargar complemento SSL de FortiClient
+- Instalar FortiClient versión 7.2.3.
+- Descargar complemento SSL de FortiClient.
 
 
 <!-- Instalación -->
