@@ -202,15 +202,19 @@ https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/
 
 <!-- Requisitos -->
 ### Requisitos
-Requisitos de Instalación.
+- Instalar Tortoise 
+- Instalar Visual Studio 2022 
+- Durante la instalación de Visual Studio 2022, asegúrate de seleccionar los componentes de desarrollo web necesarios, en este caso ASP.NET.
+- Instalar SQL Server Management Studio 19
+- Instalar FortiClient
+
 
 <!-- Instalación -->
 ### Instalacion
 Se hace uso de varias herramientas de software para poder trabajar con el proyecto proporcionado, por ello se hizo más de una instalación.
-- Instalar Visual Studio 2022 en caso de no tenerlo
+- Ejecutar Visual Studio 2022 
 - Tener activo el servidor con el uso de la VPN
-- Para la VPN tener el programa FortiClient
-- Descragar el proyecto, y ejecutarlo desde el Visual Studio
+- Descargar el proyecto, y ejecutarlo desde el Visual Studio
 
 
 ## Guias
