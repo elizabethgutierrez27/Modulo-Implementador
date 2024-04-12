@@ -230,8 +230,7 @@ https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/
 <!-- Instalación -->
 ### Instalacion
 Se hace uso de varias herramientas de software para poder trabajar con el proyecto proporcionado, por ello se hizo más de una instalación.
-
-- Para iniciar el proyecto, seguimos los siguientes pasos para permitir que cada miembro del equipo pueda trabajar en él en sus propias estaciones de trabajo.
+Para iniciar el proyecto, seguimos los siguientes pasos para permitir que cada miembro del equipo pueda trabajar en él en sus propias estaciones de trabajo.
 
 - Iniciamos el programa de Tortoise para descargar el proyecto.
 
