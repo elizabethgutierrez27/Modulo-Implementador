@@ -59,14 +59,14 @@ Requisitos.
 
 <!-- Descripción -->
 #### Descripción.
-    Período de Tiempo: El proyecto se llevó a cabo desde el 8 de enero al 15 de abril de 2024. Durante este tiempo, el equipo trabajó en el desarrollo del módulo asignado (Modulo de implementador).
+Período de Tiempo: El proyecto se llevó a cabo desde el 8 de enero al 15 de abril de 2024. Durante este tiempo, el equipo trabajó en el desarrollo del módulo asignado (Modulo de implementador).
 
-    Metodología: Se utilizó la metodología ágil Scrum para gestionar el proyecto, permitiendo trabajar en sprints y hacer ajustes conforme a los resultados y retroalimentación obtenidos.
+Metodología: Se utilizó la metodología ágil Scrum para gestionar el proyecto, permitiendo trabajar en sprints y hacer ajustes conforme a los resultados y retroalimentación obtenidos.
 
-    Riesgos: Durante el desarrollo del proyecto, surgieron problemas relacionados con la gestión del tiempo y la comprensión del código. Estos desafíos impactaron en el avance del trabajo, pero fueron abordados con sesiones de revisión y comunicación continua.
+Riesgos: Durante el desarrollo del proyecto, surgieron problemas relacionados con la gestión del tiempo y la comprensión del código. Estos desafíos impactaron en el avance del trabajo, pero fueron abordados con sesiones de revisión y comunicación continua.
 
-    Equipo:
-        Inicialmente, el equipo estaba compuesto por cinco integrantes:
+Equipo:
+Inicialmente, el equipo estaba compuesto por cinco integrantes:
             Oscar Ramírez: Líder del proyecto y Analista de datos, responsable de supervisar y coordinar el trabajo del equipo, gestionar y desarrollar la implementacion de la base de datos.
             Elizabeth Olvera: Desarrolladora de software, encargada de codificar partes específicas del módulo.
             Alejandro Rangel: Desarrollador de software, encargado de verificar la funcionalidad del módulo, ademas de apoyar con los estilos del modulo.
@@ -75,7 +75,8 @@ Requisitos.
             Noah Torres: Desarrollador de software, quien asumió parte de las tareas de codificación y posteriormente el liderazgo del equipo.
             Josué Núñez: Diseñador de interfaces, encargado de mejorar la experiencia del usuario en el módulo.
 
-    Interesados del Proyecto: Los interesados principales en el proyecto eran los departamentos de desarrollo y tecnología, así como los usuarios finales del módulo.
+Interesados del Proyecto: Los interesados principales en el proyecto eran los departamentos de desarrollo y tecnología, así como los usuarios finales del módulo.
+
 
 <!-- Objetivos -->
 #### Objetivos.
