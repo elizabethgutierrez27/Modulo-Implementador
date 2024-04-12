@@ -181,7 +181,7 @@ Del lado del servidor se encuentra:
 
 <!-- Código Fuente -->
 #### Código Fuente.
-Código Fuente de la solución
+Por razones de seguridad y protección, no se proporciona el código fuente en esta sección. El código fuente de la aplicación ha sido deliberadamente omitido y no está disponible para su visualización pública.
 
 
 <!-- Pruebas proyecto -->
