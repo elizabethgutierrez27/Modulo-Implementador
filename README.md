@@ -230,9 +230,18 @@ https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/
 <!-- Instalación -->
 ### Instalacion
 Se hace uso de varias herramientas de software para poder trabajar con el proyecto proporcionado, por ello se hizo más de una instalación.
-- Tener activo el servidor con el uso de la VPN
-- Ejecutar Visual Studio 2022 
-- Descargar el proyecto, y ejecutarlo desde el Visual Studio
+
+- Para iniciar el proyecto, seguimos los siguientes pasos para permitir que cada miembro del equipo pueda trabajar en él en sus propias estaciones de trabajo.
+
+- Iniciamos el programa de Tortoise para descargar el proyecto.
+
+- Para obtener el proyecto en nuestra estación de trabajo, accedemos al software de Tortoise y proporcionamos la URL donde está almacenado el proyecto. Luego, procedemos a descargarlo.
+
+- Para acceder a la base de datos, ejecutamos el software SQL y utilizamos las credenciales proporcionadas por la empresa.
+
+- Iniciamos FortiClient e ingresamos las credenciales de usuario también proporcionadas por la empresa.
+
+- Una vez que la conexión VPN está activa, lanzamos Visual Studio 2022 y abrimos nuestro proyecto desde la sección "Abrir". Posteriormente, lo ejecutamos como un sitio web.
 
 
 ## Guias
