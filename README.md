@@ -89,7 +89,7 @@ Los objetivos se trabajaron simultáneamente, centrándose principalmente en el 
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
-
+https://drive.google.com/file/d/1ig-yxv5Z7F41PLMByc46e3o4rQ-RD2xW/view?usp=drive_link
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
@@ -131,6 +131,8 @@ Se hace uso de las mismas tablas que el modulo de Historias Terminadas
 #### Diagrama de Componentes.
 ![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/09b8bc56-eb8c-4c2c-842b-e7a2ef538853)
 
+### Diagrama de actividades
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/e5eb59fb-8cb5-4b24-be3d-dfd8eed263be)
 
 <!-- Implementación del proyecto -->
 ## Implementación.
