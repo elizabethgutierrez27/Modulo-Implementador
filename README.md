@@ -169,16 +169,16 @@ En el desarrollo del proyecto se siguieron los estándares de codificación reco
 Del lado del cliente se encuentra:
 
 - ASPX
-    - Aqui es donde se realiza el codif¿go en html
-    - Es llamado en este modulo como sistema.aspx
+    - Aqui es donde se realiza el coóigo en html
+    - Es llamado en este módulo como sistema.aspx
       
 - JS
-    - Es donde se tiene la iteracion directa con el aspx
+    - Es donde se tiene la iteración directa con el aspx
     - Aqui es donde se encuentran todas las funciones, en este caso estas fueron:
         - mostrarTabla(): Esta se utilizo para hacer ma muestra de las etiquetas clasificadas por ("agendadas", "no agendadas" y "liberadas")
         - obtenerDatosTablaAgendadas(): Este es para mostrar y traer los datos de la base de datos de aquellas que no estan agendadas las historias de usuario
         - obtenerDatosTablaSinAgendar(): Este es para traer y mostrar los datos de la tabla sin agendar de la base de datos
-        - obtenerDatosTablaLiberadas(): Este fue usado para taer la informacion y mostrarla de las historias que ya estan liberadas, esto se refleja cuando se ejecuta el procedimineto almacenado.
+        - obtenerDatosTablaLiberadas(): Este fue usado para taer la información y mostrarla de las historias que ya estan liberadas, esto se refleja cuando se ejecuta el procedimineto almacenado.
         - formatearFecha(fecha): Este es para dar un formato de fecha "dd/mm/yyyy"
           
 Estos dos de comunican mediante el jquery
@@ -245,6 +245,21 @@ Para iniciar el proyecto, seguimos los siguientes pasos para permitir que cada m
 
 ## Guias
 https://docs.google.com/document/d/13suY7d1wHpf0kEZPHYaeZFLQgEIiGsEzgZvhL_BoiX0/edit?usp=sharing
+
+## Pantallas
+Principal:
+![Imagen de WhatsApp 2024-04-14 a las 21 57 59_cc29f4ca](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/c722b04b-ff5b-47c9-8ccb-6befff2b7ef7)
+
+Agendadas:
+![Imagen de WhatsApp 2024-04-14 a las 21 57 58_1578f4c2](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/529638a5-6b20-42c2-9fc7-b88580ef69c2)
+
+Sin agendar:
+![Imagen de WhatsApp 2024-04-14 a las 21 57 59_a1e6d8e3](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/72eca2f5-53c3-43cb-ade4-b926e41ae088)
+
+
+Liberadas:
+![Imagen de WhatsApp 2024-04-14 a las 21 57 58_75f0a46c](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/62ca650d-fb02-469b-a1ee-cc5e0ab037d4)
+
 
 ## Contacto
 - nunezomar294@gmail.com
