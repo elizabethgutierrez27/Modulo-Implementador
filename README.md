@@ -82,7 +82,7 @@ Inicialmente, el equipo estaba compuesto por cinco integrantes:
 
 <!-- Objetivos -->
 #### Objetivos.
-Los objetivos se trabajaron simultáneamente, centrándose principalmente en el trabajo en equipo y la capacidad de adaptación de los integrantes de los equipos para trabajar en un módulo asignado por el encargado. En total, participaron 4 equipos que se dividieron en grupos de 5 a 6 personas para desarrollar cada módulo. En cada equipo, había un líder encargado de dirigir y asignar las tareas a los integrantes del equipo.
+El objetivo del módulo fue desarrollar una funcionalidad integral para observar, gestionar y organizar historias en el sistema. El módulo permite a los usuarios clasificar las historias en estatus, como sin agendar, agendadas y liberadas, además de agendar y liberar historias según sea necesario. Esto tiene como finalidad optimizar la gestión y el seguimiento de las historias, proporcionando una mejor organización y control en el sistema para mejorar la toma de decisiones y la eficiencia operativa.
 
 <!-- Organigrama -->
 #### Organigrama.
@@ -169,13 +169,13 @@ En el desarrollo del proyecto se siguieron los estándares de codificación reco
 Del lado del cliente se encuentra:
 
 - ASPX
-    - Aqui es donde se realiza el coóigo en html
+    - Aqui es donde se realiza el código en html
     - Es llamado en este módulo como sistema.aspx
       
 - JS
     - Es donde se tiene la iteración directa con el aspx
     - Aqui es donde se encuentran todas las funciones, en este caso estas fueron:
-        - mostrarTabla(): Esta se utilizo para hacer ma muestra de las etiquetas clasificadas por ("agendadas", "no agendadas" y "liberadas")
+        - mostrarTabla(): Esta se utilizó para hacer ma muestra de las etiquetas clasificadas por ("agendadas", "no agendadas" y "liberadas")
         - obtenerDatosTablaAgendadas(): Este es para mostrar y traer los datos de la base de datos de aquellas que no estan agendadas las historias de usuario
         - obtenerDatosTablaSinAgendar(): Este es para traer y mostrar los datos de la tabla sin agendar de la base de datos
         - obtenerDatosTablaLiberadas(): Este fue usado para taer la información y mostrarla de las historias que ya estan liberadas, esto se refleja cuando se ejecuta el procedimineto almacenado.
@@ -185,14 +185,14 @@ Estos dos de comunican mediante el jquery
 
 Del lado del servidor se encuentra:
 - ASPX.CS
-    - Aqui se tiene el codigo de los metodos base del proyecto.
+    - Aqui se tiene el código de los métodos base del proyecto.
     - En este caso se llama sistema.aspx.cs
     - ObtenerHistoriasAgendadas()
     - ObtenerHistoriasNoAgendadas()
     - ObtenerHistoriasLiberadas()
      - ObtenerSistemas()
 - Cs
-  - Aqui se tiene las clases, y el codigo c#.      
+  - Aqui se tiene las clases, y el código c#.      
 
   Esta parte se comunica mediante el ajax, con el se conecta.
 
