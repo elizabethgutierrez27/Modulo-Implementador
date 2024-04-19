@@ -54,7 +54,9 @@
 
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
-Requisitos.
+Claro, aquí tienes un resumen de los requisitos basado en los requerimientos proporcionados:
+
+El proyecto "Implementador" requiere la implementación de varias funcionalidades clave para facilitar la gestión y liberación de nuevas funcionalidades en el sistema. Entre estos requisitos se incluyen la accesiblilidad para seleccionar historias de usuario a liberar, la visualización de historias finalizadas junto con sus fechas de agenda para un registro claro de tareas completadas, la capacidad de aplicar filtros para agrupar historias por fecha y sistema para una organización eficiente, y una pantalla dedicada para visualizar y gestionar historias por sistema o pantalla, incluyendo opciones para agendar o rechazar las historias seleccionadas. Estos requisitos son fundamentales para garantizar la eficiencia y la claridad en el proceso de gestión de historias de usuario en el sistema "Implementador".
   
 
 <!-- Descripción -->
