@@ -151,6 +151,17 @@ En el desarrollo del proyecto se siguieron los estándares de codificación reco
     - Utilizar camelCase para los parámetros de los métodos y las variables locales.
 - <b>Comentarios y documentación: </b> Se incluyeron comentarios descriptivos en el código para explicar su funcionamiento y propósito
 
+- Estándares de Codificación SQL
+  - En el desarrollo del proyecto, se siguieron los estándares de codificación recomendados por la empresa Nad Global y las buenas prácticas en SQL:
+
+  - Convención de nomenclatura:
+    - Se utilizó CamelCase para los nombres de tablas y columnas. Por ejemplo, NombreTabla y NombreColumna.
+    - Se prefirió el uso de minúsculas para palabras compuestas. Por ejemplo, nombreTabla en lugar de NombreTabla.
+    - Se evitó el uso de espacios o caracteres especiales en los nombres de tablas y columnas para facilitar la escritura de consultas SQL.
+  - Estructura del código:
+    - Se mantuvo una estructura coherente y legible en las consultas SQL, utilizando sangrías y espacios en blanco de manera consistente.
+    - Se dividió el código SQL en bloques lógicos utilizando comentarios descriptivos para mejorar la legibilidad y el mantenimiento.
+
 <!-- Arquitectura MVC y Middleware -->
 #### Arquitectura.
 Del lado del cliente se encuentra:
@@ -232,12 +243,6 @@ Para iniciar el proyecto, seguimos los siguientes pasos para permitir que cada m
 
 ## Guias
 https://docs.google.com/document/d/13suY7d1wHpf0kEZPHYaeZFLQgEIiGsEzgZvhL_BoiX0/edit?usp=sharing
-
-## contribucion
-Contribucion.
-
-## Licencia
-Licencia.
 
 ## Contacto
 - nunezomar294@gmail.com
