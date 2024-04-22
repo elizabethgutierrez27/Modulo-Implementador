@@ -258,7 +258,8 @@ Sin agendar:
 
 
 Liberadas:
-![Imagen de WhatsApp 2024-04-14 a las 21 57 58_75f0a46c](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/146129308/62ca650d-fb02-469b-a1ee-cc5e0ab037d4)
+![image](https://github.com/elizabethgutierrez27/Modulo-Implementador/assets/158323858/3ab1c658-6e76-4b60-a4de-7fc8ca0ac5db)
+
 
 
 ## Contacto
