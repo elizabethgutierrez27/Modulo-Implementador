@@ -212,7 +212,7 @@ https://docs.google.com/spreadsheets/d/1n4uHmXCagVOX4vX-S-bOL7Pf4TK6VPiIetmMg_U1
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
-https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/edit?usp=sharing
+[https://docs.google.com/document/d/1NciyJqEn-g1AlpSxKmyVL93LuK40g6JaVpsiHJQszMw/edit?usp=sharing](https://docs.google.com/document/d/1T0ipbvW1YWnb8pQBYZTPRFHQaiwXjbksTOqmbJ0Pk3E/edit)
 
 <!-- Iniciando -->
 ## Iniciando
